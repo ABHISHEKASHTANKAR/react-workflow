@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-workflow/static/css/main.b9129a9e.css",
+    "main.js": "/react-workflow/static/js/main.e8531ac3.js",
+    "index.html": "/react-workflow/index.html",
+    "main.b9129a9e.css.map": "/react-workflow/static/css/main.b9129a9e.css.map",
+    "main.e8531ac3.js.map": "/react-workflow/static/js/main.e8531ac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9129a9e.css",
+    "static/js/main.e8531ac3.js"
+  ]
+}
