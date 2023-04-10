@@ -1,0 +1,23 @@
+.workflow{
+    height: 100%;
+}
+ 
+
+.workflow .react-flow{
+    height: 100%;
+    position: relative;
+}
+
+.workflow .reactflow-wrapper{
+    height: 100%;
+}
+
+.workflow .controls{
+    position: absolute;
+    left: 0;
+    top: 70%;
+    z-index: 9999;
+    height: 110px;
+    width: 30px;
+    border: transparent;
+}

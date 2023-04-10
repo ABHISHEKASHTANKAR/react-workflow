@@ -1,0 +1,41 @@
+.node{
+    border: solid 2px #79bcff;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 350px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.node .input{
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    border-right: solid 2px #79bcff;
+    height: 100%;
+}
+
+.node .name{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background: #bfdfff44;
+}
+
+.node .output{
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    border-left: solid 2px #79bcff;
+    height: 100%;
+}

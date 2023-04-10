@@ -1,0 +1,51 @@
+.main{}
+
+.main .left{
+    width: 30%;
+    border: solid 2px #79bcff;
+    position: fixed;
+    left: 0;
+    top: 60px;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+.main .left .title{
+    border-bottom: solid 2px #79bcff;
+    padding: 15px 50px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.main .left .modules-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main .left .modules-container .pagination{
+    margin-top: 50px;
+}
+
+.main .right{
+    position: fixed;
+    right: 0;
+    top: 60px;
+    width:69.5%;
+    height: 100%;
+}
+
+/* .main .right .react-flow{
+    height: 100%;
+    position: relative;
+}
+
+.main .right .controls{
+    position: absolute;
+    left: 0;
+    top: 70%;
+    z-index: 9999;
+    height: 110px;
+    width: 30px;
+    border: transparent;
+} */
